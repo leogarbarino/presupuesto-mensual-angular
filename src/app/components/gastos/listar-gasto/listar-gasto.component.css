@@ -1,0 +1,15 @@
+.sizeAlert{
+  font-size: 1.2rem;
+}
+
+h4{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:blue;
+  font-size: 1.8rem;
+  font-weight: bolder;
+}
+
+.badge{
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
